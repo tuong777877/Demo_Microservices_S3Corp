@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "flCF7yKOVt5T1WFWXWO75NSPT5p31Bs5CMueYpkcCzpSOLRX9TnDMif6pbCxPH4XXm5K05FSYoS3ncyrdK0Vcw==",
+  "success": true,
+  "projectFilePath": "D:\\Roadmap_Intern_dotNET\\Day10_11_Microservices\\StoreCar_Microservice\\StoreCar_Microservice\\StoreCar_Microservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tuong.nguyen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
