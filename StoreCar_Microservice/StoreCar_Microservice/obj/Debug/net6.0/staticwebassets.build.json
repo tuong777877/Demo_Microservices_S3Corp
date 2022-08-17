@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J6uovIOn5pe6QXwhgA03+2H5avHM40QW2SlF54y6Nz0=",
+  "Source": "StoreCar_Microservice",
+  "BasePath": "_content/StoreCar_Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
