@@ -1,6 +1,4 @@
 ﻿using Confluent.Kafka;
-using Newtonsoft.Json;
-using System.Net;
 
 var config = new ConsumerConfig
 {
@@ -26,6 +24,5 @@ try
 }
 catch
 {
-     
 }
 public record Weather(string State, int Temparature);

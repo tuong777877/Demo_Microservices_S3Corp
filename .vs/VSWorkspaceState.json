@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KafkaProject",
+    "\\KafkaProject\\KafkaProject"
   ],
+  "SelectedNode": "\\KafkaProject\\KafkaProject\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
